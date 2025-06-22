@@ -1,5 +1,5 @@
 # Project-Image-Compression-Based-on-PCA
-Project Based Learning 2 : Aplikasi Nilai Eigen dan Principal Component Analysis pada Kompresi Gambar
+## Project Based Learning 2 : Aplikasi Nilai Eigen dan Principal Component Analysis pada Kompresi Gambar
 
 ## Anggota Kelompok 
 1. Besty Mega Fauziah (L0124007)
@@ -24,9 +24,9 @@ Pendekatan ini memungkinkan pengurangan dimensi data gambar secara efisien, meng
 - Aplikasi akan terbuka otomatis di localhost
 - Atur jumlah komponen PCA melalui slinder sesuai dengan kebutuhan.
 - Aplikasi akan menampilkan:
-a. Gambar asli dan hasil kompresi
-b. Ukuran file sebelum dan sesudah
-c. Estimasi pengurangan ukuran
-d. Nilai MSE dan PSNR
+  Gambar asli dan hasil kompresi
+  Ukuran file sebelum dan sesudah
+  Estimasi pengurangan ukuran
+  Nilai MSE dan PSNR
 - Klik tombol "Unduh Gambar Kompresi" untuk menyimpan hasil ke komputer.
 
