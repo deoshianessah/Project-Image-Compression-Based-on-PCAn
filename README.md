@@ -1,5 +1,5 @@
 # Project-Image-Compression-Based-on-PCA
-## Project Based Learning 2 : Aplikasi Nilai Eigen dan Principal Component Analysis pada Kompresi Gambar
+Project Based Learning 2 : Aplikasi Nilai Eigen dan Principal Component Analysis pada Kompresi Gambar
 
 ## Anggota Kelompok 
 1. Besty Mega Fauziah (L0124007)
